@@ -1,6 +1,5 @@
-# <h1 align="center"><b>Hello👋 I'm Shruti Dubey👩🏻‍💻</b></h1> <p align="right">[![](https://visitcount.itsvg.in/api?id=the-creative-one&icon=0&color=0)](https://visitcount.itsvg.in)</p>
-  <br>🌱 I'm currently learning MERN Stack <br><br>✨I'm always looking for new opportunities to learn and grow. If you have any interesting projects or ideas, please feel free to contact me!<br>
-
+# <h1 align="center"><b> Hello👋! I'm **Shruti Dubey**, a passionate Full Stack Developer 👩🏻‍💻 with a love for building beautiful, responsive, and user-focused web applications.</b></h1> <p align="right">[![](https://visitcount.itsvg.in/api?id=the-creative-one&icon=0&color=0)](https://visitcount.itsvg.in)</p>
+  <br> I'm diving deep into the **MERN Stack** while also exploring automation tools and UI/UX improvements.<br><br>💡 I enjoy turning ideas into code and collaborating with creative minds. Whether it’s revamping a site, automating workflows, or building tools from scratch – I’m always excited to learn and contribute.✨<br>
 
 
 
