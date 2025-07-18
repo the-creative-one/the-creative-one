@@ -1,4 +1,4 @@
-# <h1 align="center"><b> Hello👋! I'm **Shruti Dubey**, a passionate Full Stack Developer 👩🏻‍💻</b></h1> <p align="right">[![](https://visitcount.itsvg.in/api?id=the-creative-one&icon=0&color=0)](https://visitcount.itsvg.in)</p>
+# <h1 align="center"><b> Hello👋 I'm **Shruti Dubey**, a passionate Full Stack Developer 👩🏻‍💻</b></h1> <p align="right">[![](https://visitcount.itsvg.in/api?id=the-creative-one&icon=0&color=0)](https://visitcount.itsvg.in)</p>
   <br>🌱 I'm diving deep into the **MERN Stack** while also exploring automation tools and UI/UX improvements.<br><br>💡 I enjoy turning ideas into code and collaborating with creative minds. Whether it’s revamping a site, automating workflows, or building tools from scratch – I’m always excited to learn and contribute.✨<br>
 
 
