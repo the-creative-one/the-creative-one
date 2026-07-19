@@ -80,7 +80,6 @@ Currently, I'm working on **FlowSync ERP**, a production-inspired ERP platform w
 <p>
 
 <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square"/>
-<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square"/>
 <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square"/>
 
 </p>
@@ -109,7 +108,7 @@ Currently, I'm working on **FlowSync ERP**, a production-inspired ERP platform w
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
 
 </p>
 
