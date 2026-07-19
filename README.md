@@ -208,8 +208,6 @@ Currently, I'm working on **FlowSync ERP**, a production-inspired ERP platform w
 
 ## 🌱 Beyond the Code
 
-### ☕ When I'm not coding
-
 - 🎵 Listening to music while coding
 - 📖 Reading about software engineering
 - 🧩 Exploring new technologies
