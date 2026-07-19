@@ -5,238 +5,196 @@
 <h1 align="center">Hey there! 👋 I'm Shruti Dubey</h1>
 
 <h3 align="center">
-Full Stack Developer • MERN Stack • Backend Engineering • Continuous Learner
+Full Stack Developer • MERN Stack • Backend Engineering • Problem Solver
 </h3>
 
 <p align="center">
-Building software that solves real-world problems through clean architecture,
-scalable backend systems, and intuitive user experiences.
+Building scalable web applications with clean architecture, intuitive user experiences,
+and a strong focus on writing maintainable production-ready code.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Building+Production-Ready+Applications;Currently+Building+FlowSync+ERP;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Backend+Enthusiast;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+Production-Ready+Applications;Currently+Building+FlowSync+ERP;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Backend+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=the-creative-one&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=the-creative-one&label=Profile+Views&color=0e75b6&style=flat" />
 </p>
 
-<br>
+---
 
-# 💡 About Me
+## 💡 About Me
 
-I'm a Full Stack Developer passionate about building scalable applications that
-solve practical business problems.
+Hi! I'm **Shruti Dubey**, a Full Stack Developer from India with a passion for building software that solves real-world business problems.
 
-I enjoy designing backend systems, creating REST APIs, optimizing databases,
-and building clean frontend experiences using React.
+I enjoy designing scalable backend systems, developing REST APIs, creating responsive user interfaces, and continuously improving the quality of the applications I build.
 
-Rather than just learning frameworks, I enjoy understanding how software works
-under the hood - from authentication and authorization to system architecture,
-performance optimization, and deployment.
+Currently, I'm working on **FlowSync ERP**, a production-inspired ERP platform where I'm applying modern software engineering practices while strengthening my backend architecture and system design skills.
 
-I'm currently investing most of my development time into **FlowSync ERP**, a
-real-world ERP project built to strengthen my engineering skills while applying
-industry best practices.
-
-<br>
-
-# 🛠️ Developer Toolbox
-
-### Frontend
+### 🌐 Connect with Me
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite" />
-</p>
 
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm" />
-</p>
-
-### Currently Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws" />
-</p>
-
-<br>
-
-# 📈 Development Philosophy
-
-```text
-Write Code.
-
-Refactor.
-
-Optimize.
-
-Learn.
-
-Repeat.
-```
-
-> *"I believe good software isn't just about making things work - it's about making them understandable, maintainable, and scalable."*
-
-<br>
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://linkedin.com/in/shrutidubey17">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<a href="https://www.linkedin.com/in/shrutidubey17">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/shruti.__.dubey">
-<img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
-</p>
-
-<br>
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=the-creative-one&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-creative-one&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=the-creative-one&theme=github-dark&hide_border=true"/>
-
-</p>
-
-<br>
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-creative-one&theme=github-dark&hide_border=true"/>
-
-</p>
-
-<br>
-
-
-<h2 align="center">🏆 What I'm Focusing On</h2>
-
-- 🚀 Building **FlowSync ERP** from scratch
-- 🧠 Improving backend architecture skills
-- ⚡ Writing clean and maintainable code
-- 📚 Learning cloud and DevOps fundamentals
-- 🤝 Contributing to open source in the future
-
-<br>
-
-<h2 align="center">📌 My Development Workflow</h2>
-
-```text
-      Understand Problem
-              │
-              ▼
-      Design Solution
-              │
-              ▼
-       Build Feature
-              │
-              ▼
-      Test Thoroughly
-              │
-              ▼
-        Refactor Code
-              │
-              ▼
-      Push to GitHub 🚀
-```
-
-<br>
-
-<h2 align="center">📈 Beyond the Code</h2>
-
-<table>
-
-<tr>
-
-<td>
-
-🎯 Always learning something new
-
-</td>
-
-<td>
-
-🛠 Building real-world projects
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-📖 Exploring backend architecture
-
-</td>
-
-<td>
-
-🤝 Open to collaboration & learning
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-
-<a href="https://linkedin.com/in/shrutidubey17">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://shrutidubey.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="mailto:shruti.dubey11.17@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/the-creative-one">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/shruti.__.dubey">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
 
 </p>
 
-<br>
+---
 
-<p align="center">
+## 🚀 Currently Building
 
-<i>"First, solve the problem. Then, write code that others will enjoy working with."</i>
+> **FlowSync ERP** — A production-inspired ERP platform built with the MERN Stack featuring secure authentication, role-based access control, analytics, order management, and modern business workflows.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,vite,tailwind,bootstrap,materialui" />
 
 </p>
 
-<p align="center">
-⭐ Thanks for visiting my profile! ⭐
+### ⚙️ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,npm" />
+
 </p>
+
+<p>
+
+<img src="https://img.shields.io/badge/JWT-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/REST_API-02569B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Multer-6DB33F?style=flat-square"/>
+<img src="https://img.shields.io/badge/Bcrypt-4B8BBE?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cron_Jobs-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square"/>
+
+</p>
+
+### 🗄️ Database & ORM
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square"/>
+<img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=flat-square"/>
+
+</p>
+
+### ☁️ Platforms & Services
+
+<p>
+
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Resend-000000?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Web3Forms-5C6BC0?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/DiceBear-FFB300?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel"/>
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square"/>
+
+</p>
+
+### 🧰 Developer Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker" />
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Cursor-000000?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Codex-412991?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/MongoDB_Compass-13AA52?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/MySQL_Workbench-00758F?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+
+</p>
+
+### 📚 Currently Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,redis" />
+
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/System_Design-blue?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/CI/CD-orange?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Microservices-6A1B9A?style=flat-square"/>
+
+</p>
+
+---
+
+## 📌 Development Workflow
+
+```text
+          💡 Understand the Problem
+                     │
+                     ▼
+             📝 Plan the Solution
+                     │
+                     ▼
+             ⚙️ Build the Feature
+                     │
+                     ▼
+          🧪 Test & Fix Edge Cases
+                     │
+                     ▼
+           ✨ Refactor & Optimize
+                     │
+                     ▼
+           🚀 Deploy & Push to GitHub
+```
