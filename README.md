@@ -2,8 +2,9 @@
 <!--                  GitHub Profile - Shruti Dubey            -->
 <!-- ========================================================= -->
 
-<h1 align="center">Hey there! 👋 I'm Shruti Dubey</h1> 
+
 <img align="right" src="https://komarev.com/ghpvc/?username=the-creative-one&label=Profile+Views&color=0e75b6&style=flat" />
+<h1 align="center">Hey there! 👋 I'm Shruti Dubey</h1> 
 
 <h3 align="center">
 Full Stack Developer • MERN Stack • Backend Engineering • Problem Solver
