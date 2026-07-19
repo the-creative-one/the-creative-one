@@ -178,9 +178,26 @@ Currently, I'm working on **FlowSync ERP**, a production-inspired ERP platform w
 
 <table>
 <tr>
+
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=the-creative-one&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=the-creative-one&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=the-creative-one&theme=algolia&no-frame=true&column=3&margin-w=15&margin-h=15"/>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=the-creative-one&theme=github-dark&hide_border=true"/>
 
 </td>
 
@@ -189,21 +206,9 @@ Currently, I'm working on **FlowSync ERP**, a production-inspired ERP platform w
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-creative-one&layout=compact&theme=github_dark&hide_border=true"/>
 
 </td>
+
 </tr>
 
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=the-creative-one&theme=github-dark&hide_border=true"/>
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-creative-one&theme=github-dark&hide_border=true&hide_title=true"/>
-
-</td>
-</tr>
 </table>
 
 ## 🌱 Beyond the Code
