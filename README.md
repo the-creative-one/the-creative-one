@@ -172,3 +172,215 @@ Currently, I'm working on **FlowSync ERP**, a production-inspired ERP platform w
           ▼
 🚀 Deploy & Push to GitHub
 ```
+---
+
+## 📊 GitHub Analytics
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=the-creative-one&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-creative-one&layout=compact&theme=github_dark&hide_border=true"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=the-creative-one&theme=github-dark&hide_border=true"/>
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-creative-one&theme=github-dark&hide_border=true&hide_title=true"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Project
+
+# FlowSync ERP
+
+> **A production-inspired Enterprise Resource Planning platform built using the MERN Stack.**
+
+FlowSync ERP is my primary learning and portfolio project where I'm implementing real-world software engineering concepts while building a scalable business application from scratch.
+
+### Current Features
+
+- 🔐 Secure Authentication & Authorization
+- 👥 Role Based Access Control
+- 📦 Order Management
+- 📊 Dashboard & Analytics
+- 🔍 Search, Sorting & Pagination
+- 📝 Activity Logging
+- 📱 Responsive UI
+- 🔄 RESTful APIs
+
+### Upcoming Features
+
+- 📦 Inventory Management
+- 👨‍💼 Employee Management
+- 💬 Notifications
+- 📈 Reports
+- 🤖 AI Assistant
+- 📊 Advanced Dashboard
+- 📄 Invoice Management
+
+---
+
+## 🌱 Beyond the Code
+
+<table>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎯 What keeps me motivated
+
+- Building projects instead of just following tutorials
+- Breaking complex problems into simple solutions
+- Writing code that's easy to maintain
+- Learning something new every week
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☕ When I'm not coding
+
+- 🎵 Listening to music while coding
+- 📖 Reading about software engineering
+- 🧩 Exploring new technologies
+- 🚀 Experimenting with side projects
+
+</td>
+
+</tr>
+
+</table>
+
+> I enjoy understanding **why** a technology works—not just **how** to use it. That curiosity is what keeps me learning and improving with every project.
+
+---
+
+## 🎯 Current Focus
+
+```text
+2026 Learning Roadmap
+
+██████████████████████████████████████
+
+✅ MERN Stack
+
+█████████████████████████████
+
+✅ Authentication & RBAC
+
+████████████████████████████
+
+✅ REST APIs
+
+██████████████████████
+
+🟡 Docker
+
+█████████████
+
+🟡 AWS Cloud
+
+██████████
+
+🟡 WebSockets
+
+████████
+
+🟡 Redis
+
+██████
+
+🟡 System Design
+
+████
+
+⚪ CI/CD
+
+██
+
+⚪ Microservices
+
+█
+
+⚪ Kubernetes
+```
+
+### Currently Improving
+
+- 🚀 Building scalable backend applications
+- 🧠 Strengthening system design fundamentals
+- ⚡ Writing cleaner and more maintainable code
+- ☁️ Learning cloud technologies
+- 🔄 Exploring real-time applications with WebSockets
+- 📚 Expanding DevOps knowledge
+- 🤝 Contributing to open-source in the future
+
+---
+
+## 💼 What You'll Find on My GitHub
+
+📦 Full Stack Projects
+
+⚙️ Backend APIs
+
+🎨 Frontend Applications
+
+📚 Learning Experiments
+
+🚀 Open Source Contributions (Coming Soon)
+
+🧠 Notes & Technical Explorations
+
+---
+
+## 🤝 Let's Build Something Amazing
+
+If you're interested in collaborating on projects, discussing software engineering, or simply connecting with fellow developers, I'd love to connect.
+
+<p>
+
+<a href="https://www.linkedin.com/in/shrutidubey17">
+<img src="https://img.shields.io/badge/Let's%20Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+### Thanks for stopping by! 👋
+
+<i>
+I believe every project is an opportunity to become a better engineer.
+</i>
+
+<br><br>
+
+<b>Keep Learning • Keep Building • Keep Growing 🚀</b>
+
+<br><br>
+
+⭐ If you like what you see, feel free to explore my repositories.
+
+</p>
