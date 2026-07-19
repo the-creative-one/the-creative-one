@@ -130,3 +130,116 @@ Repeat.
 </p>
 
 <br>
+<br>
+
+<h2 align="center">📸 FlowSync ERP Preview</h2>
+
+<p align="center">
+<i>Screenshots will be added as the project evolves.</i>
+</p>
+
+| Dashboard | Orders |
+|----------|---------|
+| Coming Soon | Coming Soon |
+
+| Analytics | Inventory |
+|------------|------------|
+| Coming Soon | Coming Soon |
+
+<br>
+
+<h2 align="center">⚡ Project Highlights</h2>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 Goals
+
+- Build a production-ready ERP
+- Follow clean architecture
+- Implement secure authentication
+- Apply RBAC
+- Learn scalable backend development
+- Improve UI/UX consistency
+
+</td>
+
+<td width="50%">
+
+### 🚀 Planned Modules
+
+- Employee Management
+- Inventory
+- CRM
+- Reports
+- Notifications
+- AI Assistant
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=the-creative-one&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-creative-one&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=the-creative-one&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<br>
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-creative-one&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<br>
+
+<h2 align="center">🎯 2026 Roadmap</h2>
+
+```text
+████████████████████████████████████
+
+✔ Master MERN Stack
+
+✔ Build FlowSync ERP Core
+
+🟡 Learn Docker
+
+🟡 Learn AWS
+
+⚪ CI/CD Pipelines
+
+⚪ Microservices
+
+⚪ System Design
+
+⚪ Kubernetes
+
+████████████████████████████████████
+```
+
+<br>
+
+<h2 align="center">🏆 What I'm Focusing On</h2>
+
+- 🚀 Building **FlowSync ERP** from scratch
+- 🧠 Improving backend architecture skills
+- ⚡ Writing clean and maintainable code
+- 📚 Learning cloud and DevOps fundamentals
+- 🤝 Contributing to open source in the future
