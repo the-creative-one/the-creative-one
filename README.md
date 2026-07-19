@@ -155,20 +155,20 @@ Currently, I'm working on **FlowSync ERP**, a production-inspired ERP platform w
 ## 📌 Development Workflow
 
 ```text
-          💡 Understand the Problem
-                     │
-                     ▼
-             📝 Plan the Solution
-                     │
-                     ▼
-             ⚙️ Build the Feature
-                     │
-                     ▼
-          🧪 Test & Fix Edge Cases
-                     │
-                     ▼
-           ✨ Refactor & Optimize
-                     │
-                     ▼
-           🚀 Deploy & Push to GitHub
+💡 Understand the Problem
+          │
+          ▼
+📝 Plan the Solution
+          │
+          ▼
+⚙️ Build the Feature
+          │
+          ▼
+🧪 Test & Fix Edge Cases
+          │
+          ▼
+✨ Refactor & Optimize
+          │
+          ▼
+🚀 Deploy & Push to GitHub
 ```
