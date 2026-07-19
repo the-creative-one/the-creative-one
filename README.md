@@ -1,21 +1,241 @@
-# <h1 align="center"><b> Hello👋 I'm **Shruti Dubey**, a passionate Full Stack Developer 👩🏻‍💻</b></h1> <p align="right">[![](https://visitcount.itsvg.in/api?id=the-creative-one&icon=0&color=0)](https://visitcount.itsvg.in)</p>
-🌱 I'm diving deep into the **MERN Stack** while also exploring automation tools and UI/UX improvements.<br><br>💡 I enjoy turning ideas into code and collaborating with creative minds. Whether it’s revamping a site, automating workflows, or building tools from scratch – I’m always excited to learn and contribute.✨<br>
+<!-- ========================================================= -->
+<!--                  GitHub Profile - Shruti Dubey            -->
+<!-- ========================================================= -->
 
+<h1 align="center">Hey there! 👋 I'm Shruti Dubey</h1>
 
+<h3 align="center">
+Full Stack Developer • MERN Stack • Backend Engineering • Continuous Learner
+</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shruti.__.dubey) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shrutidubey17 ) 
+<p align="center">
+Building software that solves real-world problems through clean architecture,
+scalable backend systems, and intuitive user experiences.
+</p>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Building+Production-Ready+Applications;Currently+Building+FlowSync+ERP;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Backend+Enthusiast;Always+Learning+Something+New" />
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=the-creative-one&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=the-creative-one&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+# 👨‍💻 Developer Console
 
+```console
+PS C:\Users\Recruiter> whoami
 
+Name          : Shruti Dubey
 
----
+Role          : Full Stack Developer
+
+Experience    : 1+ Years
+
+Location      : India 🇮🇳
+
+Specialization: MERN Stack Development
+
+Current Focus : Backend Architecture
+
+Status        : Building Production-Ready Applications
+```
+
+```console
+PS C:\Users\Recruiter> current-project
+```
+
+```diff
++ FlowSync ERP
+
+A production-inspired ERP platform built with the MERN Stack.
+
+✔ JWT Authentication
+
+✔ Role-Based Access Control
+
+✔ Dashboard
+
+✔ Order Management
+
+✔ Analytics
+
+✔ REST APIs
+
+✔ Activity Logging
+
+⏳ Inventory Module
+
+⏳ Employee Module
+
+⏳ AI Assistant
+```
+
+<br>
+
+# 💡 About Me
+
+I'm a Full Stack Developer passionate about building scalable applications that
+solve practical business problems.
+
+I enjoy designing backend systems, creating REST APIs, optimizing databases,
+and building clean frontend experiences using React.
+
+Rather than just learning frameworks, I enjoy understanding how software works
+under the hood—from authentication and authorization to system architecture,
+performance optimization, and deployment.
+
+I'm currently investing most of my development time into **FlowSync ERP**, a
+real-world ERP project built to strengthen my engineering skills while applying
+industry best practices.
+
+<br>
+
+# 🚀 Current Mission
+
+```text
+MISSION STATUS
+
+Project
+────────────────────────────────────────
+
+FlowSync ERP
+
+Overall Progress
+
+████████████████░░░░░░░░░░░░░░░░ 55%
+
+Completed
+
+✅ Authentication
+
+✅ JWT
+
+✅ Protected Routes
+
+✅ RBAC
+
+✅ Dashboard
+
+✅ Orders
+
+✅ Analytics
+
+In Progress
+
+🟡 Inventory
+
+🟡 Employee Management
+
+Coming Next
+
+⚪ CRM
+
+⚪ Reports
+
+⚪ AI Integration
+
+⚪ Notifications
+```
+
+<br>
+
+# 🛠️ Developer Toolbox
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vite" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,npm" />
+</p>
+
+### Currently Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,aws" />
+</p>
+
+<br>
+
+# 🌟 Featured Project
+
+## 🚀 FlowSync ERP
+
+> A production-style Enterprise Resource Planning system built using the MERN
+> Stack with a strong focus on scalability, maintainability, and clean
+> architecture.
+
+### Features
+
+- 🔐 JWT Authentication
+- 👥 Role Based Access Control
+- 📊 Dashboard & Analytics
+- 📦 Order Management
+- 📈 Reports
+- 📝 Activity Logs
+- 🔎 Search, Sorting & Pagination
+- 📱 Responsive Design
+- 🔄 REST APIs
+
+<br>
+
+# 📈 Development Philosophy
+
+```text
+Write Code.
+
+Refactor.
+
+Optimize.
+
+Learn.
+
+Repeat.
+```
+
+> *"I believe good software isn't just about making things work—it's about making them understandable, maintainable, and scalable."*
+
+<br>
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://linkedin.com/in/shrutidubey17">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://instagram.com/shruti.__.dubey">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
+</p>
+
+<br>
+
+```bash
+PS C:\Developer> exit
+
+Session terminated successfully.
+
+Thanks for stopping by 👋
+```
