@@ -7,8 +7,8 @@
 
 
 
-<h3 align="center">
-Full Stack Developer • MERN Stack • Backend Engineering • Problem Solver
+<h3>
+💡 About Me | Full Stack Developer • MERN Stack • Problem Solver
 </h3>
 Hi! I'm a Full Stack Developer from India with a passion for building software that solves real-world business problems.
 
