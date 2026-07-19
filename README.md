@@ -7,7 +7,7 @@
 <h1 align="center">Hey there! 👋 I'm Shruti Dubey</h1> 
 
 <h3 align="center">
-Full Stack Developer • MERN Stack • Backend Engineering • Problem Solver
+Full Stack Developer • MERN Stack • Problem Solver
 </h3>
 
 <p align="center">
