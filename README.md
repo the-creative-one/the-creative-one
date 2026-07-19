@@ -11,11 +11,6 @@ Full Stack Developer • MERN Stack • Problem Solver
 </h3>
 
 <p align="center">
-Building scalable web applications with clean architecture, intuitive user experiences,
-and a strong focus on writing maintainable production-ready code.
-</p>
-
-<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+Production-Ready+Applications;Currently+Building+FlowSync+ERP;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Backend+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
