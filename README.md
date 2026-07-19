@@ -167,3 +167,157 @@ Repeat.
 - ⚡ Writing clean and maintainable code
 - 📚 Learning cloud and DevOps fundamentals
 - 🤝 Contributing to open source in the future
+
+<br>
+
+<h2 align="center">💻 Engineering Principles</h2>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🧩 Clean Code
+
+- Readability over cleverness
+- Meaningful naming
+- Reusable components
+- Modular architecture
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Backend
+
+- RESTful API Design
+- Authentication & Authorization
+- Database Optimization
+- Error Handling
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚀 Development
+
+- Git & GitHub Workflow
+- Performance Optimization
+- Responsive UI
+- Scalable Applications
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📚 Currently Exploring
+
+- Docker
+- AWS
+- CI/CD
+- System Design
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<h2 align="center">📌 My Development Workflow</h2>
+
+```text
+      Understand Problem
+              │
+              ▼
+      Design Solution
+              │
+              ▼
+       Build Feature
+              │
+              ▼
+      Test Thoroughly
+              │
+              ▼
+        Refactor Code
+              │
+              ▼
+      Push to GitHub 🚀
+```
+
+<br>
+
+<h2 align="center">📈 Beyond the Code</h2>
+
+<table>
+
+<tr>
+
+<td>
+
+🎯 Always learning something new
+
+</td>
+
+<td>
+
+🛠 Building real-world projects
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+📖 Exploring backend architecture
+
+</td>
+
+<td>
+
+🤝 Open to collaboration & learning
+
+</td>
+
+</tr>
+
+</table>
+
+<br>
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+
+<a href="https://linkedin.com/in/shrutidubey17">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/the-creative-one">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<br>
+
+<p align="center">
+
+<i>"First, solve the problem. Then, write code that others will enjoy working with."</i>
+
+</p>
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
