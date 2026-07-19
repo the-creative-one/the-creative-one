@@ -206,57 +206,7 @@ Currently, I'm working on **FlowSync ERP**, a production-inspired ERP platform w
 </tr>
 </table>
 
----
-
-## 🚀 Featured Project
-
-# FlowSync ERP
-
-> **A production-inspired Enterprise Resource Planning platform built using the MERN Stack.**
-
-FlowSync ERP is my primary learning and portfolio project where I'm implementing real-world software engineering concepts while building a scalable business application from scratch.
-
-### Current Features
-
-- 🔐 Secure Authentication & Authorization
-- 👥 Role Based Access Control
-- 📦 Order Management
-- 📊 Dashboard & Analytics
-- 🔍 Search, Sorting & Pagination
-- 📝 Activity Logging
-- 📱 Responsive UI
-- 🔄 RESTful APIs
-
-### Upcoming Features
-
-- 📦 Inventory Management
-- 👨‍💼 Employee Management
-- 💬 Notifications
-- 📈 Reports
-- 🤖 AI Assistant
-- 📊 Advanced Dashboard
-- 📄 Invoice Management
-
----
-
 ## 🌱 Beyond the Code
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🎯 What keeps me motivated
-
-- Building projects instead of just following tutorials
-- Breaking complex problems into simple solutions
-- Writing code that's easy to maintain
-- Learning something new every week
-
-</td>
-
-<td width="50%" valign="top">
 
 ### ☕ When I'm not coding
 
@@ -265,91 +215,18 @@ FlowSync ERP is my primary learning and portfolio project where I'm implementing
 - 🧩 Exploring new technologies
 - 🚀 Experimenting with side projects
 
-</td>
-
-</tr>
-
-</table>
-
-> I enjoy understanding **why** a technology works—not just **how** to use it. That curiosity is what keeps me learning and improving with every project.
+> I enjoy understanding **why** a technology works - not just **how** to use it. That curiosity is what keeps me learning and improving with every project.
 
 ---
-
-## 🎯 Current Focus
-
-```text
-2026 Learning Roadmap
-
-██████████████████████████████████████
-
-✅ MERN Stack
-
-█████████████████████████████
-
-✅ Authentication & RBAC
-
-████████████████████████████
-
-✅ REST APIs
-
-██████████████████████
-
-🟡 Docker
-
-█████████████
-
-🟡 AWS Cloud
-
-██████████
-
-🟡 WebSockets
-
-████████
-
-🟡 Redis
-
-██████
-
-🟡 System Design
-
-████
-
-⚪ CI/CD
-
-██
-
-⚪ Microservices
-
-█
-
-⚪ Kubernetes
-```
 
 ### Currently Improving
 
 - 🚀 Building scalable backend applications
 - 🧠 Strengthening system design fundamentals
-- ⚡ Writing cleaner and more maintainable code
 - ☁️ Learning cloud technologies
 - 🔄 Exploring real-time applications with WebSockets
 - 📚 Expanding DevOps knowledge
-- 🤝 Contributing to open-source in the future
 
----
-
-## 💼 What You'll Find on My GitHub
-
-📦 Full Stack Projects
-
-⚙️ Backend APIs
-
-🎨 Frontend Applications
-
-📚 Learning Experiments
-
-🚀 Open Source Contributions (Coming Soon)
-
-🧠 Notes & Technical Explorations
 
 ---
 
@@ -365,8 +242,6 @@ If you're interested in collaborating on projects, discussing software engineeri
 
 </p>
 
----
-
 <p align="center">
 
 ### Thanks for stopping by! 👋
@@ -378,9 +253,3 @@ I believe every project is an opportunity to become a better engineer.
 <br><br>
 
 <b>Keep Learning • Keep Building • Keep Growing 🚀</b>
-
-<br><br>
-
-⭐ If you like what you see, feel free to explore my repositories.
-
-</p>
