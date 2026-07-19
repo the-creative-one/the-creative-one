@@ -75,28 +75,6 @@ industry best practices.
 
 <br>
 
-# 🌟 Featured Project
-
-## 🚀 FlowSync ERP
-
-> A production-style Enterprise Resource Planning system built using the MERN
-> Stack with a strong focus on scalability, maintainability, and clean
-> architecture.
-
-### Features
-
-- 🔐 JWT Authentication
-- 👥 Role Based Access Control
-- 📊 Dashboard & Analytics
-- 📦 Order Management
-- 📈 Reports
-- 📝 Activity Logs
-- 🔎 Search, Sorting & Pagination
-- 📱 Responsive Design
-- 🔄 REST APIs
-
-<br>
-
 # 📈 Development Philosophy
 
 ```text
