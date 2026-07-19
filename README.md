@@ -178,9 +178,9 @@ Currently, I'm working on **FlowSync ERP**, a production-inspired ERP platform w
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=the-creative-one&show_icons=true&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=the-creative-one&theme=github-dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-creative-one&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-creative-one&theme=github-dark&hide_border=true&hide_title=true"/>
 
 </p>
 
