@@ -170,65 +170,6 @@ Repeat.
 
 <br>
 
-<h2 align="center">💻 Engineering Principles</h2>
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧩 Clean Code
-
-- Readability over cleverness
-- Meaningful naming
-- Reusable components
-- Modular architecture
-
-</td>
-
-<td width="50%" valign="top">
-
-### ⚙️ Backend
-
-- RESTful API Design
-- Authentication & Authorization
-- Database Optimization
-- Error Handling
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🚀 Development
-
-- Git & GitHub Workflow
-- Performance Optimization
-- Responsive UI
-- Scalable Applications
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📚 Currently Exploring
-
-- Docker
-- AWS
-- CI/CD
-- System Design
-
-</td>
-
-</tr>
-
-</table>
-
-<br>
-
 <h2 align="center">📌 My Development Workflow</h2>
 
 ```text
@@ -300,7 +241,7 @@ Repeat.
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:shruti.dubey11.17@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
