@@ -23,58 +23,6 @@ scalable backend systems, and intuitive user experiences.
 
 <br>
 
-# 👨‍💻 Developer Console
-
-```console
-PS C:\Users\Recruiter> whoami
-
-Name          : Shruti Dubey
-
-Role          : Full Stack Developer
-
-Experience    : 1+ Years
-
-Location      : India 🇮🇳
-
-Specialization: MERN Stack Development
-
-Current Focus : Backend Architecture
-
-Status        : Building Production-Ready Applications
-```
-
-```console
-PS C:\Users\Recruiter> current-project
-```
-
-```diff
-+ FlowSync ERP
-
-A production-inspired ERP platform built with the MERN Stack.
-
-✔ JWT Authentication
-
-✔ Role-Based Access Control
-
-✔ Dashboard
-
-✔ Order Management
-
-✔ Analytics
-
-✔ REST APIs
-
-✔ Activity Logging
-
-⏳ Inventory Module
-
-⏳ Employee Module
-
-⏳ AI Assistant
-```
-
-<br>
-
 # 💡 About Me
 
 I'm a Full Stack Developer passionate about building scalable applications that
@@ -84,61 +32,12 @@ I enjoy designing backend systems, creating REST APIs, optimizing databases,
 and building clean frontend experiences using React.
 
 Rather than just learning frameworks, I enjoy understanding how software works
-under the hood—from authentication and authorization to system architecture,
+under the hood - from authentication and authorization to system architecture,
 performance optimization, and deployment.
 
 I'm currently investing most of my development time into **FlowSync ERP**, a
 real-world ERP project built to strengthen my engineering skills while applying
 industry best practices.
-
-<br>
-
-# 🚀 Current Mission
-
-```text
-MISSION STATUS
-
-Project
-────────────────────────────────────────
-
-FlowSync ERP
-
-Overall Progress
-
-████████████████░░░░░░░░░░░░░░░░ 55%
-
-Completed
-
-✅ Authentication
-
-✅ JWT
-
-✅ Protected Routes
-
-✅ RBAC
-
-✅ Dashboard
-
-✅ Orders
-
-✅ Analytics
-
-In Progress
-
-🟡 Inventory
-
-🟡 Employee Management
-
-Coming Next
-
-⚪ CRM
-
-⚪ Reports
-
-⚪ AI Integration
-
-⚪ Notifications
-```
 
 <br>
 
