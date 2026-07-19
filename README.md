@@ -2,7 +2,8 @@
 <!--                  GitHub Profile - Shruti Dubey            -->
 <!-- ========================================================= -->
 
-<h1 align="center">Hey there! 👋 I'm Shruti Dubey</h1>
+<h1 align="center">Hey there! 👋 I'm Shruti Dubey</h1> 
+<img align="right" src="https://komarev.com/ghpvc/?username=the-creative-one&label=Profile+Views&color=0e75b6&style=flat" />
 
 <h3 align="center">
 Full Stack Developer • MERN Stack • Backend Engineering • Problem Solver
@@ -17,15 +18,12 @@ and a strong focus on writing maintainable production-ready code.
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+Production-Ready+Applications;Currently+Building+FlowSync+ERP;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Backend+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=the-creative-one&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
 ## 💡 About Me
 
-Hi! I'm **Shruti Dubey**, a Full Stack Developer from India with a passion for building software that solves real-world business problems.
+Hi! I'm a Full Stack Developer from India with a passion for building software that solves real-world business problems.
 
 I enjoy designing scalable backend systems, developing REST APIs, creating responsive user interfaces, and continuously improving the quality of the applications I build.
 
@@ -56,14 +54,6 @@ Currently, I'm working on **FlowSync ERP**, a production-inspired ERP platform w
 </a>
 
 </p>
-
----
-
-## 🚀 Currently Building
-
-> **FlowSync ERP** — A production-inspired ERP platform built with the MERN Stack featuring secure authentication, role-based access control, analytics, order management, and modern business workflows.
-
----
 
 ## 🛠️ Tech Stack
 
