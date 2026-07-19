@@ -7,7 +7,7 @@
 
 
 
-## 💡 About Me | Full Stack Developer • MERN Stack • Problem Solver
+<h2> 💡 About Me | Full Stack Developer • MERN Stack • Problem Solver </h2>
 Hi! I'm a Full Stack Developer from India with a passion for building software that solves real-world business problems.
 
 I enjoy designing scalable backend systems, developing REST APIs, creating responsive user interfaces, and continuously improving the quality of the applications I build.
