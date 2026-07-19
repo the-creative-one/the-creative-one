@@ -1,7 +1,3 @@
-<!-- ========================================================= -->
-<!--                  GitHub Profile - Shruti Dubey            -->
-<!-- ========================================================= -->
-
 
 <img align="right" src="https://komarev.com/ghpvc/?username=the-creative-one&label=Profile+Views&color=0e75b6&style=flat" />
 <h1 align="center">Hey there! 👋 I'm Shruti Dubey</h1> 
