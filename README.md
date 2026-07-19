@@ -111,7 +111,7 @@ Learn.
 Repeat.
 ```
 
-> *"I believe good software isn't just about making things work—it's about making them understandable, maintainable, and scalable."*
+> *"I believe good software isn't just about making things work - it's about making them understandable, maintainable, and scalable."*
 
 <br>
 
@@ -130,11 +130,3 @@ Repeat.
 </p>
 
 <br>
-
-```bash
-PS C:\Developer> exit
-
-Session terminated successfully.
-
-Thanks for stopping by 👋
-```
