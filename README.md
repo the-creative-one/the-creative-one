@@ -174,23 +174,6 @@ Currently, I'm working on **FlowSync ERP**, a production-inspired ERP platform w
 ```
 ---
 
-## 📊 GitHub Analytics
-
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=the-creative-one&theme=github-dark&hide_border=true" width="100%" />
-
-</td>
-
-<td align="center" width="50%">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=the-creative-one&theme=github-dark&hide_border=true&hide_title=true" width="100%" />
-
-</td>
-</tr>
-</table>
-
 ## 🌱 Beyond the Code
 
 - 🎵 Listening to music while coding
