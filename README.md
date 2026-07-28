@@ -176,18 +176,14 @@ Currently, I'm working on **FlowSync ERP**, a production-inspired ERP platform w
 
 ## 🌱 Beyond the Code
 
-- 🎵 Listening to music while coding
-- 📖 Reading about software engineering
+- 🎵 Listening to music
 - 🧩 Exploring new technologies
-- 🚀 Experimenting with side projects
-
-> I enjoy understanding **why** a technology works - not just **how** to use it. That curiosity is what keeps me learning and improving with every project.
+- 🐾 Spending time with my fur angels
 
 ---
 
 ### Currently Improving
 
-- 🚀 Building scalable backend applications
 - 🧠 Strengthening system design fundamentals
 - ☁️ Learning cloud technologies
 - 🔄 Exploring real-time applications with WebSockets
