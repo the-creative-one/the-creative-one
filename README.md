@@ -12,8 +12,6 @@ Hi! I'm a Full Stack Developer from India with a passion for building software t
 
 I enjoy designing scalable backend systems, developing REST APIs, creating responsive user interfaces, and continuously improving the quality of the applications I build.
 
-Currently, I'm working on **FlowSync ERP**, a production-inspired ERP platform where I'm applying modern software engineering practices while strengthening my backend architecture and system design skills.
-
 ### 🌐 Connect with Me
 
 <p>
@@ -152,28 +150,6 @@ Currently, I'm working on **FlowSync ERP**, a production-inspired ERP platform w
 
 ---
 
-## 📌 Development Workflow
-
-```text
-💡 Understand the Problem
-          │
-          ▼
-📝 Plan the Solution
-          │
-          ▼
-⚙️ Build the Feature
-          │
-          ▼
-🧪 Test & Fix Edge Cases
-          │
-          ▼
-✨ Refactor & Optimize
-          │
-          ▼
-🚀 Deploy & Push to GitHub
-```
----
-
 ## 🌱 Beyond the Code
 
 - 🎵 Listening to music
@@ -207,10 +183,6 @@ If you're interested in collaborating on projects, discussing software engineeri
 <p align="center">
 
 ### Thanks for stopping by! 👋
-
-<i>
-I believe every project is an opportunity to become a better engineer.
-</i>
 
 <br><br>
 
