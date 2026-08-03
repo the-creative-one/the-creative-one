@@ -173,7 +173,6 @@ I enjoy designing scalable backend systems, developing REST APIs, creating respo
 If you're interested in collaborating on projects, discussing software engineering, or simply connecting with fellow developers, I'd love to connect.
 
 <p>
-
 <a href="https://www.linkedin.com/in/shrutidubey17">
 <img src="https://img.shields.io/badge/Let's%20Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
