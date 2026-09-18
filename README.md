@@ -1,10 +1,11 @@
-<h1 align="center">Hey there! 👋 I'm Shruti Dubey 
-<p align="center">
+<h3 align="center">Hey! I'm Shruti Dubey </h3>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+Production-Ready+Applications;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Backend+Enthusiast;Always+Learning+New+Technologies" />
-</p></h1>
+
+---
+
 <h3>💡About Me | Full Stack Developer • MERN Stack • Problem Solver </h3>
 
-Hi! I'm a Full Stack Developer from India with a passion for building software that solves real-world business problems.
+Hi! I'm a Full Stack Developer with a passion for building software that solves real-world business problems.
 
 I enjoy designing scalable backend systems, developing REST APIs, creating responsive user interfaces, and continuously improving the quality of the applications I build.
 
@@ -154,7 +155,7 @@ I enjoy designing scalable backend systems, developing REST APIs, creating respo
 
 ---
 
-### Currently Improving
+### Currently
 
 - 🧠 Strengthening system design fundamentals
 - ☁️ Learning cloud technologies
@@ -168,17 +169,9 @@ I enjoy designing scalable backend systems, developing REST APIs, creating respo
 
 If you're interested in collaborating on projects, discussing software engineering, or simply connecting with fellow developers, I'd love to connect.
 
-<p>
+<p align="center">
 <a href="https://www.linkedin.com/in/shrutidubey17">
 <img src="https://img.shields.io/badge/Let's%20Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+</a></br>
+<b>Keep Learning • Keep Building • Keep Growing</b>
 </p>
-
-<p align="center">
-
-### Thanks for stopping by! 👋
-
-<br><br>
-
-<b>Keep Learning • Keep Building • Keep Growing 🚀</b>
