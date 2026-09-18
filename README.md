@@ -1,8 +1,8 @@
-
+<h1 align="center">Hey there! 👋 I'm Shruti Dubey</h1> 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Building+Production-Ready+Applications;Currently+Building+FlowSync+ERP;React+%7C+Node.js+%7C+Express+%7C+MongoDB;Backend+Enthusiast;Always+Learning+New+Technologies" />
 </p>
-<h1 align="center">Hey there! 👋 I'm Shruti Dubey</h1> 
+
 
 <h3>💡About Me | Full Stack Developer • MERN Stack • Problem Solver
 </h3>
